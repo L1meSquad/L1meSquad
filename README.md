@@ -1,4 +1,4 @@
-[![Header](https://github.com/L1meSquad/L1meSquad/blob/main/l1me/L1MESQUAD.mp4)](https://www.shpavda.com/)
+https://github.com/L1meSquad/L1meSquad/blob/main/l1me/L1MESQUAD.mp4
 
 ## Content/Apps/Games Creator
 
