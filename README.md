@@ -1,4 +1,6 @@
-[Flutter]([https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB](https://github.com/L1meSquad/L1meSquad/blob/main/l1me/L1MESQUAD.mp4)
+<a href="https://apps.apple.com/developer/aliaksei-shpauda/id1648889980" target="_blank">
+  <img src="https://github.com/L1meSquad/L1meSquad/blob/main/l1me/L1MESQUAD.mp4" alt="App Store" width="180"/>
+</a>
 
 ## Content/Apps/Games Creator
 
